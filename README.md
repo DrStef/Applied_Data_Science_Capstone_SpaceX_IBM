@@ -16,6 +16,13 @@ Clean the requested data
 
 #### <ul>[SpaceX Data Collection - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-spacex-data-collection-api_v5.ipynb)</ul>
 
+
+### **Data Wrangling.**
+
+In this lab, we will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
+
+#### <ul>[SpaceX Data Wrangling - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_lab_jupyter_launch_site_location_v4.ipynb)</ul>
+
 ### **Web scraping Falcon 9 and Falcon Heavy Launches Records from Wikipedia**
 
 Web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled List of Falcon 9 and Falcon Heavy launches. Beautiful soup. 
@@ -30,7 +37,7 @@ Understand the Spacex DataSet <br>
 Load the dataset into the corresponding table in a Db2 database. <br>
 Execute SQL queries to answer assignment questions
   
-#### <ul>[EDA - Undertanding Dataset - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-eda-sql-coursera_v10.ipynb)
+#### <ul>[EDA - Undertanding Dataset - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-eda-sql-coursera_v10.ipynb)</ul>
   
 
 ### **EDA Data visualization**
@@ -40,25 +47,19 @@ Perform exploratory Data Analysis and Feature Engineering using Pandas and Matpl
 Preparing Data Feature Engineering<br>
 In this assignment, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is due to the fact that SpaceX can reuse the first stage.
 
-#### <ul>[EDA - Data Visualization - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-eda-dataviz-v10.ipynb)
+#### <ul>[EDA - Data Visualization - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-eda-dataviz-v10.ipynb)</ul>
 
-  
-
-
-  
-
-  
-  
-  
-  
-  
+ 
+   
 ### **SpaceX Launch Records Dashboard**
 Dashboard Application with Plotly Dash about SpaceX launch sites, sucess rate and payload. 
   In the previous exploratory data analysis labs, you have visualized the SpaceX launch dataset using matplotlib and seaborn and discovered some preliminary correlations between the launch site and success rates. 
 - Launch Site Drop-down Input Component
 - Callback function to render success-pie-chart based on selected site dropdown 
 - Range Slider to Select Payload 
-- Callback function to render the success-payload-scatter-chart scatter plot.
+- Callback function to render the success-payload-scatter-chart scatter plot. 
+
+Note: the interactive Notebook doesnot work on Github. Must be downloaded and executed locally. Or on Google Colab.
 
 #### <ul>[Dashboard - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_Build_a_Dashboard_Application_with_Plotly_Dash_v10.ipynb) </ul>
 
