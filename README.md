@@ -2,12 +2,30 @@
 
 #SpaceX Falcon 9 First Stage Landing Prediction
 
+In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. In this lab, you will collect and make sure the data is in the correct format from an API. The following is an example of a successful and launch.
 This supervised classification project was carried out as part of the IBM Data Science Professional certificate.
 
 https://www.coursera.org/professional-certificates/ibm-data-science
 
 
 
+### **SpaceX Data Collection.**
+
+Request to the SpaceX API
+Clean the requested data
+
+#### <ul>[SpaceX Data Collection - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-spacex-data-collection-api_v5.ipynb)
+
+
+
+### **EDA - Undertanding Dataset. SQL Queries.**
+
+Understand the Spacex DataSet <br>
+Load the dataset into the corresponding table in a Db2 database. <br>
+Execute SQL queries to answer assignment questions
+  
+#### <ul>[EDA - Undertanding Dataset - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-eda-sql-coursera_v10.ipynb)
+  
 
 ### **EDA Data visualization**
 
@@ -19,14 +37,7 @@ In this assignment, we will predict if the Falcon 9 first stage will land succes
 #### <ul>[EDA - Data Visualization - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-eda-dataviz-v10.ipynb)
 
   
-### **EDA - Undertanding Dataset. SQL Queries.**
 
-Understand the Spacex DataSet <br>
-Load the dataset into the corresponding table in a Db2 database. <br>
-Execute SQL queries to answer assignment questions
-  
-#### <ul>[EDA - Undertanding Dataset - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-eda-sql-coursera_v10.ipynb)
-  
   
   
   
