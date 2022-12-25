@@ -5,7 +5,6 @@ This supervised classification project was carried out as part of the IBM Data S
 https://www.coursera.org/professional-certificates/ibm-data-science
 
 
-### <ul> **SpaceX Launch Records Dashboard** </ul>
 ### **SpaceX Launch Records Dashboard**
 Dashboard Application with Plotly Dash about SpaceX launch sites, sucess rate and payload. 
 - Launch Site Drop-down Input Component
@@ -15,9 +14,12 @@ Dashboard Application with Plotly Dash about SpaceX launch sites, sucess rate an
 
 #### <ul>[Dashboard - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_Build_a_Dashboard_Application_with_Plotly_Dash_v10.ipynb)
 
+###**SpaceX Launch Success. Machine Learning classification**
 
-
-
+Machine Learning Prediction using Classification Algorithms: KNN, Decision Tree, SVM, Logistic Regression. <br>
+Optimization of hyperparameters. 
+  
+####<ul>[Machine Learning - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_SpaceX_Machine%20Learning%20Prediction_Part_5_v8_shuffling.ipynb)
 
 
 
