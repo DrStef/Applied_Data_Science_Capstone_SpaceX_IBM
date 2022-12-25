@@ -86,7 +86,10 @@ Optimization of hyperparameters.
   
 #### <ul>[Machine Learning - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_SpaceX_Machine%20Learning%20Prediction_Part_5_v8_shuffling.ipynb)</ul>
 
-
-
+<br>
+<br>
+<br>
 
 Stephane D. Oct-2022
+Rev. Dec-2022
+ 
