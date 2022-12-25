@@ -14,10 +14,16 @@ https://www.coursera.org/professional-certificates/ibm-data-science
 Request to the SpaceX API
 Clean the requested data
 
-#### <ul>[SpaceX Data Collection - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-spacex-data-collection-api_v5.ipynb)
+#### <ul>[SpaceX Data Collection - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-spacex-data-collection-api_v5.ipynb)</ul>
 
+### **Web scraping Falcon 9 and Falcon Heavy Launches Records from Wikipedia**
 
+Web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled List of Falcon 9 and Falcon Heavy launches. Beautiful soup. 
 
+#### <ul>[Falcon9 webscraping - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-webscraping_v4.ipynb))</ul>  
+  
+ 
+  
 ### **EDA - Undertanding Dataset. SQL Queries.**
 
 Understand the Spacex DataSet <br>
@@ -38,7 +44,9 @@ In this assignment, we will predict if the Falcon 9 first stage will land succes
 
   
 
+
   
+
   
   
   
@@ -46,6 +54,7 @@ In this assignment, we will predict if the Falcon 9 first stage will land succes
   
 ### **SpaceX Launch Records Dashboard**
 Dashboard Application with Plotly Dash about SpaceX launch sites, sucess rate and payload. 
+  In the previous exploratory data analysis labs, you have visualized the SpaceX launch dataset using matplotlib and seaborn and discovered some preliminary correlations between the launch site and success rates. 
 - Launch Site Drop-down Input Component
 - Callback function to render success-pie-chart based on selected site dropdown 
 - Range Slider to Select Payload 
@@ -55,9 +64,14 @@ Dashboard Application with Plotly Dash about SpaceX launch sites, sucess rate an
 
 
 
-
-
-
+### **Launch Sites Locations Analysis with Folium**
+ 
+  Interactive 
+The launch success rate may depend on many factors such as payload mass, orbit type, and so on. It may also depend on the location and proximities of a launch site, i.e., the initial position of rocket trajectories. Finding an optimal location for building a launch site certainly involves many factors and hopefully we could discover some of the factors by analyzing the existing launch site locations. <br>
+In this lab, you will be performing more interactive visual analytics using Folium.<br>
+Note: The interactive Notebook does not work on Github. It must be downloaded and run locally, with an Anaconda distribution for example. Or on Google Colab. 
+  
+#### <ul>[Launch sites - Interactive Notebook with Folium](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_lab_jupyter_launch_site_location_v4.ipynb)
 
 
 
