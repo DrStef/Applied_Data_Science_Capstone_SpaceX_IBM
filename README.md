@@ -1,18 +1,23 @@
-# Applied_Data_Science_Capstone
-
-#SpaceX Falcon 9 First Stage Landing Prediction
+##### Applied Data Science Capstone: 
+This project is part of IBM Data Science certificate. https://www.coursera.org/professional-certificates/ibm-data-science
+ 
+# SpaceX Falcon 9 First Stage Landing Prediction
 
 In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. In this lab, you will collect and make sure the data is in the correct format from an API. The following is an example of a successful and launch.
 This supervised classification project was carried out as part of the IBM Data Science Professional certificate.
 
-https://www.coursera.org/professional-certificates/ibm-data-science
 
+### **Presentation of the project** 
 
+#### <ul>[Presentation - pdf](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/Stephane_Dedieu_ds-capstone-template-coursera_v9.pdf)</ul>
+
+Presentation to be downloaded (15.6MB). Will not display on Github. 
+#### <ul>[Presentation - pptx](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/Stephane_Dedieu_ds-capstone-template-coursera_v9.pptx)</ul>
 
 ### **SpaceX Data Collection.**
 
-Request to the SpaceX API
-Clean the requested data
+Request to the SpaceX API. <br>
+Clean the requested data. 
 
 #### <ul>[SpaceX Data Collection - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-spacex-data-collection-api_v5.ipynb)</ul>
 
@@ -64,7 +69,6 @@ Note: the interactive Notebook doesnot work on Github. Must be downloaded and ex
 #### <ul>[Dashboard - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_Build_a_Dashboard_Application_with_Plotly_Dash_v10.ipynb) </ul>
 
 
-
 ### **Launch Sites Locations Analysis with Folium**
  
   Interactive 
@@ -73,9 +77,6 @@ In this lab, you will be performing more interactive visual analytics using Foli
 Note: The interactive Notebook does not work on Github. It must be downloaded and run locally, with an Anaconda distribution for example. Or on Google Colab. 
   
 #### <ul>[Launch sites - Interactive Notebook with Folium](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_lab_jupyter_launch_site_location_v4.ipynb)
-
-
-
 
 
 ### **SpaceX Launch Success. Machine Learning classification**
