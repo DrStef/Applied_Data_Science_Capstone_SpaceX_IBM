@@ -35,7 +35,7 @@ Clean the requested data.
 
 In this lab, we will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
 
-#### <ul>[SpaceX Data Wrangling - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_lab_jupyter_launch_site_location_v4.ipynb)</ul>
+#### <ul>[SpaceX Data Wrangling - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_labs-jupyter-spacex-Data%20wrangling_v3.ipynb)</ul>
 
 ### **Web scraping Falcon 9 and Falcon Heavy Launches Records from Wikipedia**
 
