@@ -39,7 +39,7 @@ In this lab, we will perform some Exploratory Data Analysis (EDA) to find some p
 
 Web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled List of Falcon 9 and Falcon Heavy launches. Beautiful soup. 
 
-#### <ul>[Falcon9 webscraping - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-webscraping_v4.ipynb))</ul>  
+#### <ul>[Falcon9 webscraping - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-webscraping_v4.ipynb)</ul>  
   
  
   
